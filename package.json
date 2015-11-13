@@ -1,0 +1,18 @@
+{
+  "name": "mocksite",
+  "version": "1.0.0",
+  "description": "this is a mocksite to setup the file structure for hotreloading and JS compression",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "hot",
+    "reload",
+    "webpack",
+    "blog"
+  ],
+  "author": "Ed42311",
+  "license": "MIT"
+}
